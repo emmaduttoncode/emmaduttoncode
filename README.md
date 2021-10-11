@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing my technical depth
 - 🌱 I’m currently learning Tailwind
 - 💞️ I’m looking to collaborate on Reactjs projects
-- 📫 How to reach me at https://www.emmadutton.dev
+- 📫 Reach me at https://www.emmadutton.dev
 
 <!---
 emmaduttoncode/emmaduttoncode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
